@@ -44,7 +44,7 @@ IFORMATIONS:
 
 INSTALLATION
 
-$ git clone
+$ git clone  https://github.com/Saifahmad09/Aldoradao.git
 
 $ cd FBTOOL
 
